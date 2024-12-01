@@ -2,7 +2,7 @@
 
 A case study of estimating revenue growth of a chain of retail shops based on the revenue and customer data provided from the previous year.
 
-![](img/projection_snapshot.png)
+![](screenshots/projection_snapshot.png)
 
 ![](img/result-summary.jpg)
 
