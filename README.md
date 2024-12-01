@@ -2,9 +2,8 @@
 
 A case study of estimating revenue growth of a chain of retail shops based on the revenue and customer data provided from the previous year.
 
-![](screenshots/projection_snapshot.png)
 
-![](img/result-summary.jpg)
+
 
 # Analysis Scope
 
@@ -37,3 +36,5 @@ The complete analysis is provided in the [Jupyter Notebook file](revenue_forecas
 - The total customer base of the 4 shops over 2022 and 2023 is estimated to reach 11.9k customer
 - Total 2023 revenues from the 4 shops are estimated at € 4,137.5k
 - An estimate of 7.9k new customers are expected to sign up in the 4 shops during 2023
+
+ ![](screenshots/projection_snapshot.png)
