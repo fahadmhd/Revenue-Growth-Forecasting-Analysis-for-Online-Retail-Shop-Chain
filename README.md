@@ -22,6 +22,8 @@ In this study, revenue and customer data is provided from two retail shops in 20
 - The forecasting is performed arithmetically, where growth trends of revenue and customer numbers are tracked in 2022 and extrapolated to 2023
 - Regression will be based on monthly metrics (revenue and new customers) of the shop, regardless the number of orders in each month
 
+![](screenshots/monthly_revenue_per_shop.png)
+
 # Analysis
 
 The complete analysis is provided in the [Jupyter Notebook file](revenue_forecasting.ipynb)
